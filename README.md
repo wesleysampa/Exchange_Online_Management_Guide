@@ -140,7 +140,7 @@ Se o `RecipientTypeDetails` for **MailUniversalDistributionGroup** e o campo **M
 ---
 
 ## Conclusão  
-Com este processo, você foi capaz de resolver a situação de um grupo de distribuição sincronizado, removendo a dependência do Exchange On-Premises e permitindo que o grupo seja gerido diretamente no Exchange Online. Agora, você pode adicionar e remover membros, editar as permissões e usar todas as funcionalidades do Exchange Online sem limitações.
+Com este processo, você será capaz de resolver a situação de um grupo de distribuição sincronizado, removendo a dependência do Exchange On-Premises e permitindo que o grupo seja gerido diretamente no Exchange Online. Agora, você pode adicionar e remover membros, editar as permissões e usar todas as funcionalidades do Exchange Online sem limitações.
 
 ---
 
